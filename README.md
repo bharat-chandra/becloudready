@@ -1,6 +1,6 @@
 # becloudready
 
-**required modules
+**required modules <br>
 django : framework <br>
 psycopg : PostgreSQL database adapter for the Python <br>
 subprocess : executing remote python scripts
