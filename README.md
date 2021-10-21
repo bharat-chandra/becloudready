@@ -5,10 +5,10 @@ django : framework <br>
 psycopg : PostgreSQL database adapter for the Python <br>
 subprocess : executing remote python scripts
 
-**process
------------------------------------------------------------------------
-1.setting up django project
-2.adding postgresql as database
+**process<br>
+-----------------------------------------------------------------------<br>
+1.setting up django project<br>
+2.adding postgresql as database<br>
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
@@ -18,15 +18,15 @@ DATABASES = {
         'HOST': 'localhost',
         'PORT': '5432',
     }
-}
-3.creating model with requires attributes
-4.Create Serializer class for Data Model
-5.creating API functions for CRUD operations
-----------------------------------------------------------------------
-**weather.py
-1.creating new python script that executes remote python scripts using subprocess module
-from subprocess import call
-call(["python","file_name.py"])
+}<br>
+3.creating model with requires attributes<br>
+4.Create Serializer class for Data Model<br>
+5.creating API functions for CRUD operations<br>
+----------------------------------------------------------------------<br>
+**weather.py<br>
+1.creating new python script that executes remote python scripts using subprocess module<br>
+from subprocess import call<br>
+call(["python","file_name.py"])<br>
                                Day                          Description            Temperature
 0                          Tonight      A clear sky and a gentle breeze             Low23° 74°
 1      Friday 22nd OctoberFri 22nd  Sunny intervals and a gentle breeze  High33° 92°Low23° 74°
