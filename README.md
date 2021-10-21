@@ -26,9 +26,12 @@ DATABASES = {<br>
 *weather.py<br>
 1.creating new python script that executes remote python scripts using subprocess module<br>
 code:
+<p>
 from subprocess import call<br>
 call(["python","file_name.py"])<br>
-*output : 
+</p>
+
+<h3>output :</h3> 
                                Day                          Description            Temperature<br>
 0                          Tonight      A clear sky and a gentle breeze             Low23° 74°<br>
 1      Friday 22nd OctoberFri 22nd  Sunny intervals and a gentle breeze  High33° 92°Low23° 74°<br>
