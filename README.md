@@ -2,6 +2,7 @@
 
 **required modules <br>
 django : framework <br>
+djangorestframework : Django Rest Framework for creating api<br>
 psycopg : PostgreSQL database adapter for the Python <br>
 subprocess : executing remote python scripts
 
