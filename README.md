@@ -48,4 +48,4 @@ call(["python","file_name.py"])<br>
 12     Tuesday 2nd NovemberTue 2nd      Light cloud and a gentle breeze  High33° 92°Low25° 76°<br>
 13   Wednesday 3rd NovemberWed 3rd      Light cloud and a gentle breeze  High33° 92°Low24° 76°<br>
 
-the above response is send to html page and displayed in tabular format as i did in my <a href="http://visualdashboard.herokuapp.com/">previous project</a>
+<h2 style="color:green">the above response is send to html page and visualized in tabular format as i did in my <a href="http://visualdashboard.herokuapp.com/">previous project</a></h2>
