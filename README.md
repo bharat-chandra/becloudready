@@ -26,6 +26,8 @@ DATABASES = {<br>
 ----------------------------------------------------------------------<br>
 *weather.py<br>
 1.creating new python script that executes remote python scripts using subprocess module<br>
+And this is done when a button is clicked on webpage.
+
 code:
 <p>
 from subprocess import call<br>
